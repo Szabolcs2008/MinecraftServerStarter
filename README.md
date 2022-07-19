@@ -5,7 +5,12 @@
 
 1. download the GitHub source code
 2. Configure the bot in the config.yml file
-3. Run the bot.py file
+3. Run the bot.bat or the bo.sh file
+
+if you can't run the script:
+```
+sudo chmod +x bot.sh
+```
 
 ### Dependencies:
 
