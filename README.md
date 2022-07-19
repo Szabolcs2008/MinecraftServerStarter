@@ -1,4 +1,4 @@
-# Minecraft Server Starter Discord bot
+#Minecraft Server Starter Discord bot
 
 ## Setup:
 
@@ -35,7 +35,7 @@ pip install pyyaml
 pip instal mcststus
 ```
 
-### My configuration (example):
+###My configuration (example):
 ```
 botConfig:
   TOKEN: my-discord-token
