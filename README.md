@@ -6,7 +6,7 @@ To run this, you need to have a discord application setup!
 
 You have to run the bot on the same computer, as the server!
 
-1. download the GitHub source code
+1. download the GitHub source code to the server folder
 2. Unzip the folder
 3. Configure the bot in the config.yml file
      - Paste your discord bot's token after: TOKEN:
