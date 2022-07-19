@@ -1,25 +1,24 @@
-#WARNING!!! This file is in ANSI encoding!
+#This file is in ANSI encoding! If it doesn't work with your langauge, try switching to another encoding
 
 botConfig:
-  TOKEN: OTk3OTEwODkyNzIzMzA2NTY2.GN6XH1.e1-Pz5fVUkfd5g52RoDd5cMcewVqDK43PBBKYc
-  IP: 178.48.150.51
+  TOKEN: 
+  IP: 
   PORT: 25565
   STARTCOMMAND: ./start.sh
   COMMANDPREFIX: "!!" #default: !!
-embedConfig:
-  #Not finished
+
 
 langSettings: #Customise for your langauge (default: HU_hu)
   general:
-    botOnline: "Bot elÈrhetı" #Message to send when bot goes online (python console)
+    botOnline: "Bot el√©rhet√µ" #Message to send when bot goes online (python console)
   statusCommand:
-    onRun: "Inform·ciÛ lekÈrdezÈse" #Message to send on running the command
+    onRun: "Inform√°ci√≥ lek√©rdez√©se" #Message to send on running the command
     online: "Igen" #Messsge to send if server online
     offline: "nem" #Message to send if server offline
     embedTitle: "Szerver info:" 
-    playersOnline: "J·tÈkosok online:" 
+    playersOnline: "J√°t√©kosok online:" 
   startCommand:
-    onRun: "Szerver ellenırzÈse..."
-    serverAlreadyRunning: "A szerver m·r fut!"
-    startingServer: "Szerver indÌt·sa"
+    onRun: "Szerver ellen√µrz√©se..."
+    serverAlreadyRunning: "A szerver m√°r fut!"
+    startingServer: "Szerver ind√≠t√°sa"
     serverOnline: "Szerver online" #Message to send when the server is online
