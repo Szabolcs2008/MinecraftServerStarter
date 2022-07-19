@@ -35,7 +35,7 @@ pip install pyyaml
 pip instal mcststus
 ```
 
-###My configuration (example):
+### My configuration (example):
 ```
 botConfig:
   TOKEN: my-discord-token
