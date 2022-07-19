@@ -3,7 +3,7 @@
 botConfig:
   TOKEN: 
   IP: 
-  PORT: 25565
+  PORT:
   STARTCOMMAND: ./start.sh
   COMMANDPREFIX: "!!" #default: !!
 
