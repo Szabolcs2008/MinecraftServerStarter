@@ -17,4 +17,4 @@ Install the dependencies:
 ```
 pip install discord
 pip install pyyaml
-pip 
+pip instal mcststus
