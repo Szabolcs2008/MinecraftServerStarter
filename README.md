@@ -1,4 +1,4 @@
-#Minecraft Server Starter Discord bot
+# Minecraft Server Starter Discord bot
 
 ## Setup:
 
